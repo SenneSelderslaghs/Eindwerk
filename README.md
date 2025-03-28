@@ -1,12 +1,14 @@
 evaluatie week 7: Freestyle IoT project:
 
-Voor dit project heb ik ervoor gekozen om een automatisch irrigatiesysteem te maken voor planten die ook de temperatuur en luchtvochtigheid van de kamer meten.
+Voor dit project heb ik ervoor gekozen om een automatisch irrigatiesysteem te maken voor planten die ook de temperatuur en luchtvochtigheid van de kamer meten. Via blynk kan je aanpassen wat je gewenste bodemvochtigheid is.
+
+Youtube link: https://youtube.com/shorts/SDGWMxC2Gw4?si=gg5hXB454pldegpX
 
 componenten: 
 -Grondvochtigheid sensor
 -DHT11
 -220ohm weerstand
--rode led (pompje werkte niet)
+-rode led (pompje werkte niet, zie video)
 -ESP32
 
 code:
